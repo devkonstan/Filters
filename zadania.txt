@@ -1,0 +1,4 @@
+1. Filtr do sprawdzania poprawności maila - czy jest @
+2. Filtr do sprawdzania poprawności numer telefonu -> czy zaczyna się od 48 i czy zawiera 11 znaków
+3. Filtr do sprawdzania czy podana wartość jest liczbą
+4. Sprawdzanie czy podana jest liczbą parzystą - servlet powinien pokazać się tylko jeśli liczba jest parzysta
